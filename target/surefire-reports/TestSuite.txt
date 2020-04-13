@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 48.016 s <<< FAILURE! - in TestSuite
+com.erp22_projects_Scripts.createProjectTC_002.testcreateproject  Time elapsed: 0.183 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.erp22_projects_Scripts.createProjectTC_002.testcreateproject(createProjectTC_002.java:19)
+
+com.erp22_tasks_Scripts.createTasksTC_003.testCreateTasks  Time elapsed: 0.134 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.erp22_tasks_Scripts.createTasksTC_003.testCreateTasks(createTasksTC_003.java:18)
+

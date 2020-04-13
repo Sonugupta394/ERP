@@ -1,0 +1,5 @@
+2020-04-13 15:27:33,907  INFO [main] baseClass:44 - ******Chrome Browser lunched******
+2020-04-13 15:27:34,512  INFO [main] baseClass:68 - ******URL is entered******
+2020-04-13 15:27:35,228  INFO [main] baseClass:74 - ******Login successfully******
+2020-04-13 15:27:37,083  INFO [main] baseClass:81 - ******LogOut Successfully******
+2020-04-13 15:27:37,223  INFO [main] baseClass:62 - ******Browser is Closed******
